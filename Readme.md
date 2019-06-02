@@ -1,6 +1,6 @@
 # About
 
-​	L2tp/pptp VPN on Windows will forward all packets to peer by default, which may be improper for normal flows. This programe can connect VPN and add specific routes to remote peer. It tested with PYTHON3 on Windows.
+​	L2tp/pptp VPN on Windows will forward all packets to peer by default, which may be improper for normal flows. This program can connect VPN and add specific routes to remote peer. It tested with PYTHON3 on Windows.
 
 # Prepare
 

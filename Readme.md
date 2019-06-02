@@ -4,7 +4,13 @@
 
 # Prepare
 
-​	Create the vpn network adapter first. The name of adapter will be used in config file.
+Install packages.
+
+```
+pip install psutil xmltodict
+```
+
+Create the vpn network adapter first. The name of adapter will be used in config file.
 
 ![](https://raw.githubusercontent.com/sseaky/public/dev/imgs/20190602164913.png)
 

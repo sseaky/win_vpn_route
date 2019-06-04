@@ -7,7 +7,7 @@
 Install packages.
 
 ```
-pip install psutil xmltodict
+pip install psutil xmltodict IPy
 ```
 
 Create the vpn network adapter first. The name of adapter will be used in config file.
